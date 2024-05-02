@@ -94,7 +94,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 123822766997700608
-     1 string m_Localized = "Restaurante da Arden"
+     1 string m_Localized = "Restaurante do Arden"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

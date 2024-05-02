@@ -126,7 +126,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 30416770703622144
-     1 string m_Localized = "Floor"
+     1 string m_Localized = "Chão"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

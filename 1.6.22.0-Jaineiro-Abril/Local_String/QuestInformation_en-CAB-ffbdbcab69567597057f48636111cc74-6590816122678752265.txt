@@ -25,7 +25,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 278980001792
-     1 string m_Localized = "This lousy train! The only thing this boring hunk of metal does is chug on and on! I can’t believe something like this is the essence of magic.\nIf we’re talking about something truly mysterious, then that shining tree outside the window is a better fit than this train. In fact, a true witch wouldn’t pass by on an opportunity to take a closer look at such a marvel."
+     1 string m_Localized = "Esse trem horrível! A única coisa que esse pedaço chato de metal faz é beber óleo sem parar! Não posso acreditar que algo assim seja a essência da magia.\nSe estamos falando de algo verdadeiramente misterioso, então aquela árvore brilhante do lado de fora da janela é mais adequada do que este trem. Na verdade, uma verdadeira bruxa não deixaria passar a oportunidade de ver mais de perto tal maravilha."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -33,7 +33,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 484509286400
-     1 string m_Localized = "Though it looks like a normal forest on the outside, there could be more to it than meets the eye.\nMom always said those who act can find hidden secrets!\nI’ll shrivel up out of boredom like dried old cheese, if I go back to the train now. I need to find just one more oddity."
+     1 string m_Localized = "Embora pareça uma floresta normal por fora, pode haver mais do que aparenta.\nMamãe sempre disse que aqueles que agem, podem encontrar segredos escondidos!\nVou murchar de tédio como queijo velho e seco, se eu volte para o trem agora. Eu preciso encontrar apenas mais uma estranheza."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -41,7 +41,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 508114829312
-     1 string m_Localized = "An Extractor... That shattered bottle reminds me of the concoctions class.\nWe were making a Bomb Potion in secret, but Scaredy-Cat Will was so nervous he put in the wrong ingredient. The mixture boiled too quickly and...\nThe glass bottle shattered... I had to write 10 pages of apologies as punishment. It was horrible."
+     1 string m_Localized = "Um Extrator... Aquela garrafa quebrada me lembra da aula de misturas.\nEstávamos fazendo uma Poção Bomba em segredo, mas o Will Scaredy-Cat estava tão nervoso que colocou o ingrediente errado. A mistura ferveu rápido demais e...\nA garrafa de vidro quebrou... Tive que escrever 10 páginas de desculpas como punição. Foi horrível."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -49,7 +49,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 524682330112
-     1 string m_Localized = "I don’t know who the witch that used to live here was, but thanks to her, I should be able to make {BadGrassPotion_Name} without much trouble.\nI’m not particularly fond of cleaning myself, but this person seems to have a phobia of cleaning. I left my tables clean, at the very least."
+     1 string m_Localized = "Não sei quem era a bruxa que morava aqui, mas graças a ela, devo ser capaz de fazer {BadGrassPotion_Name} sem muitos problemas.\nNão gosto muito de me limpar, mas essa pessoa parece ter uma fobia de limpeza. Deixei minhas mesas limpas, pelo menos."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -60,7 +60,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 544194232320
-     1 string m_Localized = "I guess this is what they mean by out of the frying pan, into the fire? But I can’t give up now.\nI didn’t even flinch in the face of a Black Forest Tree Giant! Something like giant prickly vines are a piece of cake for me."
+     1 string m_Localized = "Acho que é isso que eles querem dizer com sair da frigideira e ir para o fogo? Mas não posso desistir agora.\nNem sequer vacilei diante de uma Árvore Gigante da Floresta Negra! Algo como vinhas gigantes e espinhosas é moleza para mim."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -68,7 +68,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 554243784704
-     1 string m_Localized = "Spiderwebs of this size must mean the spider is enormous.\nJenny did always like large, fluffy, and strange creatures.\nI should write her a letter after I discover this Spider, uh, King.\nBut first, I should rescue them."
+     1 string m_Localized = "Teias de aranha desse tamanho devem significar que a aranha é enorme.\nJenny sempre gostou de criaturas grandes, fofas e estranhas.\nEu deveria escrever uma carta para ela depois de descobrir essa Aranha.\nMas primeiro, eu devia ajudar eles.."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -76,7 +76,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 594110644224
-     1 string m_Localized = "To think the Bomb Potion that destroyed the Principal’s Secret Door isn’t enough!\nJust what sort of prickly vine is this?\nA piece of it fell off, so I should take it back for research.\nNothing is impossible in my life!"
+     1 string m_Localized = "Pensar que a Poção Bomba que destruiu a Porta Secreta do Diretor não é suficiente!\nQue tipo de vinhas espinhosas são essa?\nUm pedaço dela caiu, então devo levá-la de volta para pesquisa.\nNada é impossível na minha vida!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -84,7 +84,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 606509006848
-     1 string m_Localized = "It really does feel like I’m on an adventure. My butt would’ve exploded from boredom if I stayed on the train. But now, I’m all alone! No Jenny, no Will, just me! I’m solving the problems in this forest all on my own.\nI should be able to reach the village once I get rid of the prickly vines. Let’s do this!"
+     1 string m_Localized = "Realmente parece que estou em uma aventura. Minha bunda teria explodido de tédio se eu continuasse no trem. Mas agora estou sozinha! Sem Jenny, sem Will, só eu! Estou resolvendo os problemas nesta floresta sozinha.\nDevo conseguir chegar a vila assim que me livrar das vinhas espinhosas. Vamos fazer isso!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -92,7 +92,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 618542465024
-     1 string m_Localized = "Come to think of it, I’ve never set foot on a village outside Lucerine Ortu.\nMom used to sneak outside during her years in the School for Witches. I couldn’t dare do the same, when getting caught would mean expulsion.\nI wonder what this place is like? I hope it’s as fun as Clock Alley."
+     1 string m_Localized = "Pensando bem, nunca coloquei os pés em uma vila fora de Lucerine Ortu.\nMamãe costumava sair escondida durante seus anos na Escola de Bruxas. Eu não poderia pensar em fazer isso, já que ser pego significaria expulsão.\nEu me pergunto como é esse lugar? Espero que seja tão divertido quanto Clock Alley."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -100,7 +100,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 650503061504
-     1 string m_Localized = "Prickly vines... prickly vines... endless prickly vines.\nAt this point this village should be called Prickly Vine Village instead of Wisteria. But, how did it manage to grow specifically targetting houses?\nDivine punishment? A monster? Curse? In any case, I’m gonna get to the bottom of this."
+     1 string m_Localized = "Vinhas espinhosas... vinhas espinhosas... infinitas vinhas espinhosas.\nNeste ponto, esta vila deveria se chamar Vila das Vinhas Espinhosas em vez de Wisteria. Mas como conseguiu crescer especificamente nas casas?\nCastigo divino? Um monstro? Maldição? De qualquer forma, vou chegar ao fundo disso."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -108,7 +108,7 @@
    [10]
     0 TableEntryData data
      0 SInt64 m_Id = 656194732032
-     1 string m_Localized = "Writing letters is so much fun. It makes me happy when I use the Blue Star Quill Dad gave me as a gift for getting accepted into the School, dipping it in the Night Sea Ink Mom gave me.\nSo, I wrote Kyla a letter in the middle of the night. I can’t wait to meet her."
+     1 string m_Localized = "Escrever cartas é muito divertido. Fico feliz quando uso a pena de estrela azul que meu pai me deu de presente por ter sido aceita na escola, colocando na tinta do mar noturno que minha mãe me deu.\nEntão, escrevi uma carta para Kyla no meio da noite. Mal posso esperar para conhecê-la."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -116,7 +116,7 @@
    [11]
     0 TableEntryData data
      0 SInt64 m_Id = 662872064000
-     1 string m_Localized = "How long has it been since I’ve waited in anticipation for someone? I’d always see my friends at school, and Mom and Dad were at home during school holidays, so I’ve never really gone through this experience before.\nI wonder what Kyla is like? What does she look like? How is she going to build her home?"
+     1 string m_Localized = "Quanto tempo se passou desde que esperei ansiosamente por alguém? Eu sempre via meus amigos na escola, e mamãe e papai ficavam em casa durante as férias escolares, então nunca passei por essa experiência antes.\nEu me pergunto como é Kyla? Como ela se parece? Como ela vai construir sua casa?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -124,7 +124,7 @@
    [12]
     0 TableEntryData data
      0 SInt64 m_Id = 667787788288
-     1 string m_Localized = "I need to uncover the truth behind the strange dream."
+     1 string m_Localized = "Preciso descobrir a verdade sobre esses sonhos esquisitos."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -132,7 +132,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 679196295168
-     1 string m_Localized = "Let’s get rid of the prickly vines in the village, so that people can return and restore the village."
+     1 string m_Localized = "Vamos retirar essas vinhas espinhosas da Vila, para que as pessoas possam retornar e restaurar a vila."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -140,7 +140,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 811115544576
-     1 string m_Localized = "Just being able to breathe fire would make it easier to control the flames under the cauldron. Plus, I’d be able to explore dark caves as much as I want.\nEven when I’m cold, just opening my mouth would solve that problem!\nI must be the only witch who’s about to learn how to breathe fire straight from a dragon’s mouth."
+     1 string m_Localized = "Apenas ser capaz de cuspir fogo tornaria mais fácil controlar as chamas sob o caldeirão. Além disso, eu poderia explorar cavernas escuras o quanto quisesse.\nMesmo quando estiver com frio, apenas abrir a boca resolveria esse problema!\nDevo ser a única bruxa que está prestes a aprender a cuspir fogo direto da boca de um dragão."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -148,7 +148,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 838470795264
-     1 string m_Localized = "I wonder what’s inside a dragon’s bag...? He even said it was an “important ingredient.”\nMaybe it’s special salt that can only be mined in the deepest recesses of the Earth,\nor maybe it’s a herb from a forest void of light...\nI should ask what it is later."
+     1 string m_Localized = "Eu me pergunto o que há dentro da bolsa de um dragão...? Ele até disse que era um “ingrediente importante”.\nTalvez seja um sal especial que só pode ser extraído nos recantos mais profundos da Terra,\nOu talvez seja uma erva de uma floresta sem luz...\nDevo perguntar o que é é mais tarde."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -156,7 +156,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 892631842816
-     1 string m_Localized = "A curse that forces you to do nothing but praise nature... There really are all kinds of curses out there. Must be frustrating if you’re forced to speak only specific phrases.\nI’d hate to be forced to speak nothing praises for Virgil. (I should make sure Virgil doesn’t read this.)"
+     1 string m_Localized = "Uma maldição que obriga você a não fazer nada além de elogiar a natureza... Realmente existem todos os tipos de maldições por aí. Deve ser frustrante se você for forçado a falar apenas frases específicas.\nEu odiaria ser forçado a não elogiar o Virgil. (Espero que o Virgil não leia isso.)"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -164,7 +164,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 901712510976
-     1 string m_Localized = "I’ve been wondering ever since I came to this village... but isn’t it too dark out at night?\nEnite and Rubrum could easily get hurt wandering out at night. I should figure out how they’re handling this issue and see if I can do something about it.\nIt sucks to trip and fall just because you can’t see a thing in front of you."
+     1 string m_Localized = "Tenho me perguntado desde que cheguei a esta vila... mas não é muito escuro à noite?\nEnite e Rubrum podem facilmente se machucar vagando à noite. Eu deveria descobrir como eles estão lidando com esse problema e ver se posso fazer algo a respeito.\nÉ uma pena tropeçar e cair só porque você não consegue ver nada à sua frente."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -172,7 +172,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 939444469760
-     1 string m_Localized = "Scrumptious pie, filled with sweet fruit. It was always a treat to have pie. Dad’s golden pie was always delicious, but I wonder what Enite’s pie tastes like?\nIn any case, I love the smell of pie baking away."
+     1 string m_Localized = "Torta deliciosa, recheada com frutas doces. Sempre foi um prazer comer torta. A torta dourada do papai sempre foi deliciosa, mas me pergunto qual será o gosto da torta da Enite?\nDe qualquer forma, adoro o cheiro da torta assando."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -180,7 +180,7 @@
    [19]
     0 TableEntryData data
      0 SInt64 m_Id = 959396773888
-     1 string m_Localized = "Rubrum sure does love playing with sand. To think he’d take the shovel with him. But isn’t Kyla’s shovel too big to play with...? Or maybe he took it to search for treasure? I always used to fool around with Mom’s broom when I was a kid. I guess that’s just how it is?"
+     1 string m_Localized = "Rubrum adora brincar com areia. E pensar que ele levaria a pá com ele. Mas a pá de Kyla não é grande demais para brincar...? Ou talvez ele tenha levado para procurar um tesouro? Eu sempre brincava com a vassoura da mamãe quando era criança. Eu acho que é assim que é, talvez?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -188,7 +188,7 @@
    [20]
     0 TableEntryData data
      0 SInt64 m_Id = 997720129536
-     1 string m_Localized = "I should find Rosie’s bait."
+     1 string m_Localized = "Tenho que encontrar a isca da Rosie."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -196,7 +196,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 2073630408704
-     1 string m_Localized = "If someone asks me what the worst moment in my life was,\nI’d say the train to Highlion without a doubt.\nArgh, I really don’t want to go on the train...\nEverything would be so much more fun without trains."
+     1 string m_Localized = "Se alguém me perguntar qual foi o pior momento da minha vida,\neu diria o trem para Highlion, sem dúvida.\nArgh, eu realmente não quero ir de trem...\nTudo seria muito mais diversão sem trens."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -436,7 +436,7 @@
    [51]
     0 TableEntryData data
      0 SInt64 m_Id = 20683858924138496
-     1 string m_Localized = "Suco Twinkle-Twinkle"
+     1 string m_Localized = "Suco Brilha-brilha"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -468,7 +468,7 @@
    [55]
     0 TableEntryData data
      0 SInt64 m_Id = 26392505654308864
-     1 string m_Localized = "Behold, these boots!\nMade by a master of the craft, these boots are as comfortable and fashionable as can be! No need to string up the laces one by one! With these touch-and-go boots, you can take them off at a moments notice before getting off the train once it stops!"
+     1 string m_Localized = "Vejam só estas botas!\nFeitas por um mestre do artesão, estas botas são tão confortáveis e elegantes quanto! Não há necessidade de amarrar os cadarços um por um! Com estas botas colocar-e-ir, você pode tirá-las a qualquer momento antes de sair do trem quando ele parar!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -476,7 +476,7 @@
    [56]
     0 TableEntryData data
      0 SInt64 m_Id = 27523914818494464
-     1 string m_Localized = "The moon... Something, Something"
+     1 string m_Localized = "A lua... Alguma coisa, alguma coisa"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -484,7 +484,7 @@
    [57]
     0 TableEntryData data
      0 SInt64 m_Id = 27523915615412224
-     1 string m_Localized = "I wonder if there’s anyone who can decipher these ancient witch runes written in the note?"
+     1 string m_Localized = "Eu me pergunto se há alguém que possa decifrar essas antigas runas de bruxa escritas na nota?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -492,7 +492,7 @@
    [58]
     0 TableEntryData data
      0 SInt64 m_Id = 27549477398487040
-     1 string m_Localized = "Sacred Water"
+     1 string m_Localized = "Água sagrada"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -500,7 +500,7 @@
    [59]
     0 TableEntryData data
      0 SInt64 m_Id = 27549478304456704
-     1 string m_Localized = "I should ask where I can find sacred water."
+     1 string m_Localized = "Eu devia perguntar onde conseguir a água sagrada."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -508,7 +508,7 @@
    [60]
     0 TableEntryData data
      0 SInt64 m_Id = 28433549591158784
-     1 string m_Localized = "A Better Roaster"
+     1 string m_Localized = "Um tostador melhor"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -516,7 +516,7 @@
    [61]
     0 TableEntryData data
      0 SInt64 m_Id = 28433550232887296
-     1 string m_Localized = "I should replace the Roaster with a better one."
+     1 string m_Localized = "Eu devia arrumar um Tostador melhor."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -524,7 +524,7 @@
    [62]
     0 TableEntryData data
      0 SInt64 m_Id = 28433620122574848
-     1 string m_Localized = "A Better Extractor"
+     1 string m_Localized = "Um Extrator melhor"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -532,7 +532,7 @@
    [63]
     0 TableEntryData data
      0 SInt64 m_Id = 28433620722360320
-     1 string m_Localized = "I should replace the Extractor with a better one."
+     1 string m_Localized = "Eu devia arrumar um Extrator melhor."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -540,7 +540,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 29002675374850048
-     1 string m_Localized = "Upon closer inspection, the prickly vines stem from the ground. This is a clue that points towards the core of the prickly vines I need to destroy in order to get rid of the prickly vines! I don’t know where it is, but I promise I’ll find it.\nThen, ta-da, these prickly vines will no longer destroy houses!"
+     1 string m_Localized = "Após uma inspeção mais detalhada, as vinhas espinhosas brotam do solo. Esta é uma pista que aponta para o núcleo das vinhas espinhosas que preciso destruir para me livrar delas! Não sei onde fica, mas prometo que vou encontrá-lo.\nEntão, ta-da, essas trepadeiras espinhosas não destruirão mais casas!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -548,7 +548,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 29002676209516544
-     1 string m_Localized = "If I knew this was going to happen, I should’ve asked for another train ticket in case of theft. To think I’d need it this desperately after complaining about how stupid it looks. I guess I should’ve taken better care of it when I had the chance.\nIt served me well, but... In any case, I need to think of another way."
+     1 string m_Localized = "Se eu soubesse que isso iria acontecer, deveria ter pedido outra passagem de trem para o caso de roubo. E pensar que eu precisaria disso desesperadamente depois de reclamar de como isso parece estúpido. Acho que deveria ter cuidado melhor dele quando tive a chance.\nMe serviu bem, mas... De qualquer forma, preciso pensar em outra maneira."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -556,7 +556,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 30453279892828160
-     1 string m_Localized = "I should deliver 1 Nutrition Potion, Candy 00, and Candy 02 to Diane."
+     1 string m_Localized = "Eu devia entregar 1 Poção Nutricional, Doce 00 e Doce 02 para a Diane."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -564,7 +564,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 30455778544578560
-     1 string m_Localized = "Luna Coin"
+     1 string m_Localized = "Moedas Lunares"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -572,7 +572,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 30456344838533120
-     1 string m_Localized = "I should deliver 3 Stubborn Weed Extermination Potions and 2 Curse Dispel Candies to Diane."
+     1 string m_Localized = "Eu devia entregar 3 Poções Exterminadores de Daninhas e 2 Doces que retira a maldição para Diane."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -580,7 +580,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 30456365289959424
-     1 string m_Localized = "I should deliver 1 Nutrition Potion and Candy 01 to Diane."
+     1 string m_Localized = "Eu deveria entregar 1 Poção Nutricional e 01 Doce para Diane."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -588,7 +588,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 30456381828100096
-     1 string m_Localized = "I should deliver 1 Fast Pace Potion and 2 Healing Candies to Diane."
+     1 string m_Localized = "Eu deveria entregar 1 Poção de Ritmo Rápido e 2 Doces de Cura para Diane."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -596,7 +596,7 @@
    [71]
     0 TableEntryData data
      0 SInt64 m_Id = 30457797833519104
-     1 string m_Localized = "I should deliver 5 Healing Candies to Aurea."
+     1 string m_Localized = "Eu deveria entregar 5 Doces de Cura para Aurea."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -604,7 +604,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 30458040234930176
-     1 string m_Localized = "I should deliver 5 Curse Dispel Candies to Aurea."
+     1 string m_Localized = "Eu deveria entregar 5 Doces Corta Cura para Aurea."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -612,7 +612,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 30458068034777088
-     1 string m_Localized = "I should deliver 5 Candy 01 to Aurea."
+     1 string m_Localized = "Eu deveria entregar 5 Doces 01 para Aurea."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -620,7 +620,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 30458070375198720
-     1 string m_Localized = "I should deliver 5 Candy 02 to Aurea."
+     1 string m_Localized = "Eu deveria entregar 5 Doces 02 para Aurea."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -628,7 +628,7 @@
    [75]
     0 TableEntryData data
      0 SInt64 m_Id = 30459124949053440
-     1 string m_Localized = "Let’s do what a witch does to frogs that appear only in spooky places"
+     1 string m_Localized = "Vamos fazer o que bruxas fazem com sapos que aparecem em lugares assustadores"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -636,7 +636,7 @@
    [76]
     0 TableEntryData data
      0 SInt64 m_Id = 31648269994160128
-     1 string m_Localized = "Gold Coin"
+     1 string m_Localized = "Moedas de Ouro"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -644,7 +644,7 @@
    [77]
     0 TableEntryData data
      0 SInt64 m_Id = 51449994024124416
-     1 string m_Localized = "I should deliver 1 yellow Twinkle-Twinkle Juice, silver Twinkle-Twinkle Juice, and pink Twinkle-Twinkle Juice to Diane."
+     1 string m_Localized = "Eu deveria entregar 1 Suco amarelo Brilha-brilha, Suco cinza Brilha-brilha e Suco rosa Brilha-brilha para Diane."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -652,7 +652,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 58423076899123200
-     1 string m_Localized = "The Source of the Curse"
+     1 string m_Localized = "O motivo da maldição"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -660,7 +660,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 58423079969353728
-     1 string m_Localized = "Who cursed Arden?"
+     1 string m_Localized = "Quem almadiçou Arden?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -668,7 +668,7 @@
    [80]
     0 TableEntryData data
      0 SInt64 m_Id = 58721230194278400
-     1 string m_Localized = "Let’s repair the fountain"
+     1 string m_Localized = "Vamos reparar a fonte"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -676,7 +676,7 @@
    [81]
     0 TableEntryData data
      0 SInt64 m_Id = 58650052691881984
-     1 string m_Localized = "Arden can’t seem to sleep that well because of those dreams he keeps having. He thinks it’s because of a curse, but did he really do something deserving of a curse? I heard the person who casts the curse becomes affected as well.\nBut why now? Who would hate Arden this much?"
+     1 string m_Localized = "Arden parece não conseguir dormir muito bem por causa dos sonhos que continua tendo. Ele acha que é por causa de uma maldição, mas será que alguém realmente fez algo que merecesse uma maldição? Ouvi dizer que a pessoa que lança a maldição também é afetada.\nMas por que agora? Quem odiaria tanto Arden?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -692,7 +692,7 @@
    [83]
     0 TableEntryData data
      0 SInt64 m_Id = 64549422306029568
-     1 string m_Localized = "Firecracker Potion"
+     1 string m_Localized = "Poção de Fogos de Artifícios"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -700,7 +700,7 @@
    [84]
     0 TableEntryData data
      0 SInt64 m_Id = 64549522369540096
-     1 string m_Localized = "A special potion often used in festivals. Crafting one is prohibited for anyone enrolled at the School for Witches."
+     1 string m_Localized = "Uma poção especial usado em festivais. Fazer uma poção delas é proibido por qualquer bruxa nas Escola de Bruxas."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -708,7 +708,7 @@
    [85]
     0 TableEntryData data
      0 SInt64 m_Id = 64885054421200896
-     1 string m_Localized = "Old things hold memories. Teacher Olivia used to say this all the time. She said there are things in the world that aren't made by witches, but are still imbued with magical powers. I wonder if Arden’s light is like that. This is my first time hearing about a night light."
+     1 string m_Localized = "Coisas antigas guardam memórias. A professora Olivia costumava dizer isso o tempo todo. Ela disse que existem coisas no mundo que não são feitas por bruxas, mas ainda estão cheias de poderes mágicos. Eu me pergunto se a luz de Arden é assim. Esta é a primeira vez que ouço falar de uma luz noturna."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -724,7 +724,7 @@
    [87]
     0 TableEntryData data
      0 SInt64 m_Id = 66757953037033472
-     1 string m_Localized = "As he used to be a villager, what was Roy like?"
+     1 string m_Localized = "Como Roy vai morar aqui, do que ele gosta?"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -732,7 +732,7 @@
    [88]
     0 TableEntryData data
      0 SInt64 m_Id = 67074419653369856
-     1 string m_Localized = "Build Roy’s House"
+     1 string m_Localized = "Construir a Casa do Roy"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -740,7 +740,7 @@
    [89]
     0 TableEntryData data
      0 SInt64 m_Id = 67074423432437760
-     1 string m_Localized = "Build a house for Roy!"
+     1 string m_Localized = "Construia uma casa para Roy!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -748,7 +748,7 @@
    [90]
     0 TableEntryData data
      0 SInt64 m_Id = 67074717646086144
-     1 string m_Localized = "Build Houses for the Villagers"
+     1 string m_Localized = "Construa casas para os moradores"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -756,7 +756,7 @@
    [91]
     0 TableEntryData data
      0 SInt64 m_Id = 67135280577273856
-     1 string m_Localized = "Deliver Diane’s Potion"
+     1 string m_Localized = "Entregar Poção da Diane"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -764,7 +764,7 @@
    [92]
     0 TableEntryData data
      0 SInt64 m_Id = 67360911550341120
-     1 string m_Localized = "{count} Luna Coin(s)"
+     1 string m_Localized = "{count} Moeda(s) Lunar(es)"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -775,7 +775,7 @@
    [93]
     0 TableEntryData data
      0 SInt64 m_Id = 67361195072708608
-     1 string m_Localized = "Currency commonly used in the witch society. A moon is embossed on the silver coins."
+     1 string m_Localized = "Moeda comum usada na sociedade das bruxas. Uma lua está gravada nas moedas de prata."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -783,7 +783,7 @@
    [94]
     0 TableEntryData data
      0 SInt64 m_Id = 67529989381287936
-     1 string m_Localized = "Potion class was a required course at the School for Witches. Crafting was fun, but using set recipes was boring. I wasn't allowed to do even that after I did things my own way and caused a small explosion."
+     1 string m_Localized = "A aula de poções era um curso obrigatório na Escola para Bruxas. Criar era divertido, mas usar receitas definidas era chato. Eu não tive permissão para fazer nem isso depois de fazer as coisas do meu jeito e causar uma pequena explosão."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -791,7 +791,7 @@
    [95]
     0 TableEntryData data
      0 SInt64 m_Id = 69878634536787968
-     1 string m_Localized = "{count} Gold Coins"
+     1 string m_Localized = "{count} Moedas de Ouro"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -802,7 +802,7 @@
    [96]
     0 TableEntryData data
      0 SInt64 m_Id = 69878633614041088
-     1 string m_Localized = "Delivering Aurea’s Potions"
+     1 string m_Localized = "Entregar Poções da Aurea"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -810,7 +810,7 @@
    [97]
     0 TableEntryData data
      0 SInt64 m_Id = 69878636071903232
-     1 string m_Localized = "The standard currency."
+     1 string m_Localized = "A moeda padrão."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -818,7 +818,7 @@
    [98]
     0 TableEntryData data
      0 SInt64 m_Id = 74329968460558336
-     1 string m_Localized = "Withered Beansprout"
+     1 string m_Localized = "Broto de feijão murcho"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -826,7 +826,7 @@
    [99]
     0 TableEntryData data
      0 SInt64 m_Id = 74330386506838016
-     1 string m_Localized = "A beansprout that normally grows tall and strong."
+     1 string m_Localized = "Um broto de feijão murcho que cresce alto e forte."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -834,7 +834,7 @@
    [100]
     0 TableEntryData data
      0 SInt64 m_Id = 74330470623604736
-     1 string m_Localized = "Gaga Bird"
+     1 string m_Localized = "Passáro Gaga"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -842,7 +842,7 @@
    [101]
     0 TableEntryData data
      0 SInt64 m_Id = 74330538705547264
-     1 string m_Localized = "A crazy bird. It makes a terrible noise that no sane person can endure."
+     1 string m_Localized = "Um passáro esquisito. Um animal horrível que consegue imitar sons de qualquer coisa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
