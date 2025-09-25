@@ -22,7 +22,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 51544608768
-     1 string m_Localized = "Witch’s House"
+     1 string m_Localized = "Casa da Bruxa"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -30,7 +30,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 326768683405312
-     1 string m_Localized = "Witch’s Workplace"
+     1 string m_Localized = "Local de trabalho da Bruxa"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -38,7 +38,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 327382855340032
-     1 string m_Localized = "Witch’s Garden"
+     1 string m_Localized = "Jardim da Bruxa"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -46,7 +46,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 1750868294696960
-     1 string m_Localized = "Green Forest Plains"
+     1 string m_Localized = "Planícies da Floresta Verde"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -54,7 +54,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 1751689728163840
-     1 string m_Localized = "Green Forest Plateau"
+     1 string m_Localized = "Planalto da Floresta Verde"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -62,7 +62,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 1752380764913664
-     1 string m_Localized = "Green Forest Waterfall"
+     1 string m_Localized = "Cachoeira da Floresta Verde"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -70,7 +70,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 1753048640716800
-     1 string m_Localized = "Mountain Summit"
+     1 string m_Localized = "Cume da Montanha"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -78,7 +78,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 123822563129360384
-     1 string m_Localized = "Green Forest Depths"
+     1 string m_Localized = "Profundezas da Floresta Verde"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -94,7 +94,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 123822766997700608
-     1 string m_Localized = "Arden’s Restaurant"
+     1 string m_Localized = "Restaurante do Arden"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -102,7 +102,7 @@
    [10]
     0 TableEntryData data
      0 SInt64 m_Id = 123822844768485376
-     1 string m_Localized = "Enite’s House"
+     1 string m_Localized = "Casa da Enite"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -110,7 +110,7 @@
    [11]
     0 TableEntryData data
      0 SInt64 m_Id = 367481601958998016
-     1 string m_Localized = "Cloud Vally Upstream"
+     1 string m_Localized = "Vale das Nuvens Altas"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -118,7 +118,7 @@
    [12]
     0 TableEntryData data
      0 SInt64 m_Id = 367481605545127936
-     1 string m_Localized = "Cloud Vally Downstream"
+     1 string m_Localized = "Vale das Nuvens Baixas"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -126,7 +126,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 367481608313368576
-     1 string m_Localized = "Red Shroom Forage Spot"
+     1 string m_Localized = "Mancha do Cogumelo Vermelho"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -134,7 +134,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 367481611098386432
-     1 string m_Localized = "Blue Shroom Forage Spot"
+     1 string m_Localized = "Mancha do Cogumelo Azul"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -142,7 +142,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 367481613912764416
-     1 string m_Localized = "Hidden Garden"
+     1 string m_Localized = "Jardim Escondido"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -150,7 +150,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 549308474458169344
-     1 string m_Localized = "Starlit Cave Top"
+     1 string m_Localized = "Topo da Caverna Estrelada"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -158,7 +158,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 549308654842601472
-     1 string m_Localized = "Starlit Cave Mid Outer Wall"
+     1 string m_Localized = "Caverna Estrelada, Parede Externa Média"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -166,7 +166,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 549308796786237440
-     1 string m_Localized = "Starlit Cave Mid Inner - Upper"
+     1 string m_Localized = "Meio da Caverna Estrelada - Cima"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -174,7 +174,7 @@
    [19]
     0 TableEntryData data
      0 SInt64 m_Id = 549309490024996864
-     1 string m_Localized = "Starlit Cave Bottom"
+     1 string m_Localized = "Fundo da Caverna Estrelada"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -182,7 +182,7 @@
    [20]
     0 TableEntryData data
      0 SInt64 m_Id = 549309656744386560
-     1 string m_Localized = "Starlit Cave Floating Island"
+     1 string m_Localized = "Ilha Flutuante da Caverna Estrelada"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -190,7 +190,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 549345305505619968
-     1 string m_Localized = "Green Forest Crevasse"
+     1 string m_Localized = "Fenda da Floresta Verde"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -198,7 +198,7 @@
    [22]
     0 TableEntryData data
      0 SInt64 m_Id = 549365357449633792
-     1 string m_Localized = "Starlit Cave Mid Inner - Lower"
+     1 string m_Localized = "Meio da Caverna Estrelada - Baixo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

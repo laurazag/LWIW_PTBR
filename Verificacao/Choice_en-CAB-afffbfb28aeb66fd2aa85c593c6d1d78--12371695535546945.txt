@@ -25,7 +25,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 454515879936
-     1 string m_Localized = "Yes"
+     1 string m_Localized = "Sim"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -33,7 +33,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 733961383936
-     1 string m_Localized = "No"
+     1 string m_Localized = "Não"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -41,7 +41,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 862718128128
-     1 string m_Localized = "Accept"
+     1 string m_Localized = "Aceitar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -49,7 +49,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 970025201664
-     1 string m_Localized = "Decline"
+     1 string m_Localized = "Rejeitar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -57,7 +57,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 1228251721728
-     1 string m_Localized = "Read"
+     1 string m_Localized = "Ler"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -65,7 +65,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 1285906624512
-     1 string m_Localized = "Don’t read"
+     1 string m_Localized = "Não Ler"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -73,7 +73,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 1329011486720
-     1 string m_Localized = "Eat"
+     1 string m_Localized = "Comer"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -81,7 +81,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 1675746209792
-     1 string m_Localized = "Don’t eat"
+     1 string m_Localized = "Não Comer"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -89,7 +89,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 1737037574144
-     1 string m_Localized = "Give"
+     1 string m_Localized = "Dar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -97,7 +97,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 1796101763072
-     1 string m_Localized = "Don’t give"
+     1 string m_Localized = "Não dar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -105,7 +105,7 @@
    [10]
     0 TableEntryData data
      0 SInt64 m_Id = 1841760956416
-     1 string m_Localized = "Return it"
+     1 string m_Localized = "Devolver"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -113,7 +113,7 @@
    [11]
     0 TableEntryData data
      0 SInt64 m_Id = 1999735222272
-     1 string m_Localized = "Don't return it"
+     1 string m_Localized = "Não Devolver"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -121,7 +121,7 @@
    [12]
     0 TableEntryData data
      0 SInt64 m_Id = 4856299515904
-     1 string m_Localized = "Yes"
+     1 string m_Localized = "Sim"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -129,7 +129,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 4911244898304
-     1 string m_Localized = "No"
+     1 string m_Localized = "Não"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -137,7 +137,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 17652542205952
-     1 string m_Localized = "Cancel"
+     1 string m_Localized = "Cancelar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -145,7 +145,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 72165817663483904
-     1 string m_Localized = "Uh, hang on. [em1]My backpack's full[/em1]. I'll come back after I've made room."
+     1 string m_Localized = "Eita, espera. [em1]Minha mochila está cheia[/em1]. Eu voltarei assim que liberar espaço."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -153,7 +153,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 96799983088562176
-     1 string m_Localized = "I've got some business to do at the moment. See you later."
+     1 string m_Localized = "Tenho alguns negócios para resolver no momento. Até mais."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -161,7 +161,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 102939863585779712
-     1 string m_Localized = "Insufficient storage space in the backpack."
+     1 string m_Localized = "Espaço de armazenamento insuficiente na mochila."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -169,7 +169,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 198218873357594624
-     1 string m_Localized = " and Ellie seem to have gotten closer <color=#800000>a bit</color>."
+     1 string m_Localized = " e Ellie parecem ter se aproximado <color=#800000>um pouco</color>."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -177,7 +177,7 @@
    [19]
     0 TableEntryData data
      0 SInt64 m_Id = 198219309686845440
-     1 string m_Localized = " and Ellie seem to have <color=#800000>gotten much closer</color> after the chat."
+     1 string m_Localized = " e Ellie parecem ter se aproximado <color=#800000>muito mais</color> depois da conversa."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -185,7 +185,7 @@
    [20]
     0 TableEntryData data
      0 SInt64 m_Id = 199367918788669440
-     1 string m_Localized = " and Ellie seem to have more <color=#800000>{Common.Keyword_Basic_AboutYou}</color> to share now!"
+     1 string m_Localized = " e Ellie parecem ter muito mais <color=#800000>{Common.Keyword_Basic_AboutYou}</color> para compartilhar agora!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -196,7 +196,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 201561481429512192
-     1 string m_Localized = "is needed."
+     1 string m_Localized = "é preciso."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -204,7 +204,7 @@
    [22]
     0 TableEntryData data
      0 SInt64 m_Id = 201871419913662464
-     1 string m_Localized = ", bring it here."
+     1 string m_Localized = ", trazer até aqui."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -212,7 +212,7 @@
    [23]
     0 TableEntryData data
      0 SInt64 m_Id = 336316793111588864
-     1 string m_Localized = " and Ellie seem to have more <color=#800000>{Common.Keyword_Basic_ChitChat}</color> to share now!"
+     1 string m_Localized = " e Ellie parecem ter muito mais <color=#800000>{Common.Keyword_Basic_ChitChat}</color> para compartilhar agora!"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)

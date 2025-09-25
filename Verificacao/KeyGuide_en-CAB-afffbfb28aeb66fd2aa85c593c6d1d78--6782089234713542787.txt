@@ -22,7 +22,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 107873370112
-     1 string m_Localized = "Move"
+     1 string m_Localized = "Mover"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -30,7 +30,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341632
-     1 string m_Localized = "Interact"
+     1 string m_Localized = "Interagir"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -38,7 +38,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341633
-     1 string m_Localized = "Collect"
+     1 string m_Localized = "Coletar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -46,7 +46,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341634
-     1 string m_Localized = "Swap Tools"
+     1 string m_Localized = "Mudar Ferramenta"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -54,7 +54,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341635
-     1 string m_Localized = "Use Tool"
+     1 string m_Localized = "Usar Ferramenta"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -62,7 +62,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341636
-     1 string m_Localized = "Sprint"
+     1 string m_Localized = "Correr"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -70,7 +70,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341637
-     1 string m_Localized = "Open Encyclopedia"
+     1 string m_Localized = "Abrir Enciclopédia"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -78,7 +78,7 @@
    [7]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341641
-     1 string m_Localized = "End Dialogue"
+     1 string m_Localized = "Terminar Diálogo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -86,7 +86,7 @@
    [8]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341642
-     1 string m_Localized = "Select"
+     1 string m_Localized = "Selecionar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -94,7 +94,7 @@
    [9]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341643
-     1 string m_Localized = "Cancel"
+     1 string m_Localized = "Cancelar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -102,7 +102,7 @@
    [10]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341644
-     1 string m_Localized = "Select \nIngredient"
+     1 string m_Localized = "Selecionar\nIngrediente"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -110,7 +110,7 @@
    [11]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341645
-     1 string m_Localized = "Fire Strength"
+     1 string m_Localized = "Força do Fogo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -118,7 +118,7 @@
    [12]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341646
-     1 string m_Localized = "Ladle Direction"
+     1 string m_Localized = "Direção da Concha"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -126,7 +126,7 @@
    [13]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341647
-     1 string m_Localized = "Reset"
+     1 string m_Localized = "Resetar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -134,7 +134,7 @@
    [14]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341648
-     1 string m_Localized = "Exit"
+     1 string m_Localized = "Sair"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -142,7 +142,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341649
-     1 string m_Localized = "Begin \nCrafting"
+     1 string m_Localized = "Começar\nCraftar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -150,7 +150,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341650
-     1 string m_Localized = "Exit"
+     1 string m_Localized = "Sair"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -158,7 +158,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341651
-     1 string m_Localized = "Select \nIngredient"
+     1 string m_Localized = "Selecionar\nIngrediente"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -166,7 +166,7 @@
    [18]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341652
-     1 string m_Localized = "Begin Processing"
+     1 string m_Localized = "Começar a Processar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -174,7 +174,7 @@
    [19]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341653
-     1 string m_Localized = "Exit"
+     1 string m_Localized = "Sair"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -182,7 +182,7 @@
    [20]
     0 TableEntryData data
      0 SInt64 m_Id = 107894341654
-     1 string m_Localized = "View Recipes"
+     1 string m_Localized = "Ver Receitas"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -190,7 +190,7 @@
    [21]
     0 TableEntryData data
      0 SInt64 m_Id = 2157155778560
-     1 string m_Localized = "Remove Ingredient"
+     1 string m_Localized = "Remover Ingrediente"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -198,7 +198,7 @@
    [22]
     0 TableEntryData data
      0 SInt64 m_Id = 29052375203840
-     1 string m_Localized = "Open Bag"
+     1 string m_Localized = "Abrir Mochila"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -206,7 +206,7 @@
    [23]
     0 TableEntryData data
      0 SInt64 m_Id = 40803347005440
-     1 string m_Localized = "Change Potions"
+     1 string m_Localized = "Mudar Poções"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -214,7 +214,7 @@
    [24]
     0 TableEntryData data
      0 SInt64 m_Id = 41121883422720
-     1 string m_Localized = "Equip Potion"
+     1 string m_Localized = "Equipar Poção"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -222,7 +222,7 @@
    [25]
     0 TableEntryData data
      0 SInt64 m_Id = 7290672253718528
-     1 string m_Localized = "Throw while aiming"
+     1 string m_Localized = "Jogar enquanto mira"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -230,7 +230,7 @@
    [26]
     0 TableEntryData data
      0 SInt64 m_Id = 7290770140385280
-     1 string m_Localized = "Drink"
+     1 string m_Localized = "Beber"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -238,7 +238,7 @@
    [27]
     0 TableEntryData data
      0 SInt64 m_Id = 7290802671407104
-     1 string m_Localized = "Cancel"
+     1 string m_Localized = "Cancelar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -246,7 +246,7 @@
    [28]
     0 TableEntryData data
      0 SInt64 m_Id = 7290825329037312
-     1 string m_Localized = "Drop"
+     1 string m_Localized = "Largar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -254,7 +254,7 @@
    [29]
     0 TableEntryData data
      0 SInt64 m_Id = 17414995006889984
-     1 string m_Localized = "Change Categories"
+     1 string m_Localized = "Mudar Categoria"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -262,7 +262,7 @@
    [30]
     0 TableEntryData data
      0 SInt64 m_Id = 6851244094935040
-     1 string m_Localized = "Select"
+     1 string m_Localized = "Selecionar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -270,7 +270,7 @@
    [31]
     0 TableEntryData data
      0 SInt64 m_Id = 6851282372153344
-     1 string m_Localized = "Cancel"
+     1 string m_Localized = "Cancelar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -278,7 +278,7 @@
    [32]
     0 TableEntryData data
      0 SInt64 m_Id = 6851315683315712
-     1 string m_Localized = "Swap Items"
+     1 string m_Localized = "Trocar Itens"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -286,7 +286,7 @@
    [33]
     0 TableEntryData data
      0 SInt64 m_Id = 6885802513289216
-     1 string m_Localized = "Change Categories"
+     1 string m_Localized = "Mudar Categorias"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -294,7 +294,7 @@
    [34]
     0 TableEntryData data
      0 SInt64 m_Id = 6930032833089536
-     1 string m_Localized = "View Ingredient Info"
+     1 string m_Localized = "Ver Sobre Ingrediente"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -302,7 +302,7 @@
    [35]
     0 TableEntryData data
      0 SInt64 m_Id = 17415299043598336
-     1 string m_Localized = "Turn Page"
+     1 string m_Localized = "Virar Página"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -310,7 +310,7 @@
    [36]
     0 TableEntryData data
      0 SInt64 m_Id = 19149850145103872
-     1 string m_Localized = "Select Duration"
+     1 string m_Localized = "Selecionar Duração"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -318,7 +318,7 @@
    [37]
     0 TableEntryData data
      0 SInt64 m_Id = 19149952532258816
-     1 string m_Localized = "Sleep"
+     1 string m_Localized = "Dormir"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -326,7 +326,7 @@
    [38]
     0 TableEntryData data
      0 SInt64 m_Id = 19151997725220864
-     1 string m_Localized = "Cancel"
+     1 string m_Localized = "Cancelar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -334,7 +334,7 @@
    [39]
     0 TableEntryData data
      0 SInt64 m_Id = 19900805987868672
-     1 string m_Localized = "Skip Dialogue"
+     1 string m_Localized = "Pular Diálogo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -342,7 +342,7 @@
    [40]
     0 TableEntryData data
      0 SInt64 m_Id = 23560365565911040
-     1 string m_Localized = "Skip Dialogue"
+     1 string m_Localized = "Pular Diálogo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -350,7 +350,7 @@
    [41]
     0 TableEntryData data
      0 SInt64 m_Id = 27873284496728064
-     1 string m_Localized = "Select"
+     1 string m_Localized = "Selecionar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -358,7 +358,7 @@
    [42]
     0 TableEntryData data
      0 SInt64 m_Id = 27873375462793216
-     1 string m_Localized = "Move"
+     1 string m_Localized = "Mover"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -366,7 +366,7 @@
    [43]
     0 TableEntryData data
      0 SInt64 m_Id = 77519011266863104
-     1 string m_Localized = "Sort"
+     1 string m_Localized = "Sortear"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -374,7 +374,7 @@
    [44]
     0 TableEntryData data
      0 SInt64 m_Id = 77519145706889216
-     1 string m_Localized = "Move"
+     1 string m_Localized = "Mover"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -382,7 +382,7 @@
    [45]
     0 TableEntryData data
      0 SInt64 m_Id = 77519210399834112
-     1 string m_Localized = "Select"
+     1 string m_Localized = "Selecionar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -390,7 +390,7 @@
    [46]
     0 TableEntryData data
      0 SInt64 m_Id = 77519259682906112
-     1 string m_Localized = "Cancel"
+     1 string m_Localized = "Cancelar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -398,7 +398,7 @@
    [47]
     0 TableEntryData data
      0 SInt64 m_Id = 77539124300914688
-     1 string m_Localized = "Change the number to process"
+     1 string m_Localized = "Mudar número de processo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -406,7 +406,7 @@
    [48]
     0 TableEntryData data
      0 SInt64 m_Id = 77598048672718848
-     1 string m_Localized = "Change the number to craft"
+     1 string m_Localized = "Mudar o número para craftar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -414,7 +414,7 @@
    [49]
     0 TableEntryData data
      0 SInt64 m_Id = 77923949151166464
-     1 string m_Localized = "Open Notes"
+     1 string m_Localized = "Abrir Notas"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -422,7 +422,7 @@
    [50]
     0 TableEntryData data
      0 SInt64 m_Id = 106156393205506048
-     1 string m_Localized = "Aim"
+     1 string m_Localized = "Mirar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -430,7 +430,7 @@
    [51]
     0 TableEntryData data
      0 SInt64 m_Id = 106163981125066752
-     1 string m_Localized = "Boost"
+     1 string m_Localized = "Impulsionar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -438,7 +438,7 @@
    [52]
     0 TableEntryData data
      0 SInt64 m_Id = 106164094232862720
-     1 string m_Localized = "Brake"
+     1 string m_Localized = "Parar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -446,7 +446,7 @@
    [53]
     0 TableEntryData data
      0 SInt64 m_Id = 106484754545025024
-     1 string m_Localized = "Switch Inventory↔Storage"
+     1 string m_Localized = "Alternar Inventário ↔ Armazem"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -454,7 +454,7 @@
    [54]
     0 TableEntryData data
      0 SInt64 m_Id = 106484845859217408
-     1 string m_Localized = "Move Tabs"
+     1 string m_Localized = "Mover Abas"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -462,7 +462,7 @@
    [55]
     0 TableEntryData data
      0 SInt64 m_Id = 77535298202279936
-     1 string m_Localized = "Go to Keywords Page"
+     1 string m_Localized = "Ir a Página Palavraschave"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -470,7 +470,7 @@
    [56]
     0 TableEntryData data
      0 SInt64 m_Id = 77535500803940352
-     1 string m_Localized = "Go to Quests Page"
+     1 string m_Localized = "Ir para a página de missões"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -478,7 +478,7 @@
    [57]
     0 TableEntryData data
      0 SInt64 m_Id = 77596050430795776
-     1 string m_Localized = "Sort by newest"
+     1 string m_Localized = "Sortear por novo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -486,7 +486,7 @@
    [58]
     0 TableEntryData data
      0 SInt64 m_Id = 77596179854434304
-     1 string m_Localized = "Sort by oldest"
+     1 string m_Localized = "Sortear por antigo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -494,7 +494,7 @@
    [59]
     0 TableEntryData data
      0 SInt64 m_Id = 113108510243725312
-     1 string m_Localized = "Move Tabs"
+     1 string m_Localized = "Mover Abas"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -502,7 +502,7 @@
    [60]
     0 TableEntryData data
      0 SInt64 m_Id = 113423830112182272
-     1 string m_Localized = "Select"
+     1 string m_Localized = "Selecionar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -510,7 +510,7 @@
    [61]
     0 TableEntryData data
      0 SInt64 m_Id = 113423993379659776
-     1 string m_Localized = "Exit"
+     1 string m_Localized = "Sair"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -518,7 +518,7 @@
    [62]
     0 TableEntryData data
      0 SInt64 m_Id = 113424666968104960
-     1 string m_Localized = "Cancel"
+     1 string m_Localized = "Cancelar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -526,7 +526,7 @@
    [63]
     0 TableEntryData data
      0 SInt64 m_Id = 113424535036272640
-     1 string m_Localized = "Select"
+     1 string m_Localized = "Selecionar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -534,7 +534,7 @@
    [64]
     0 TableEntryData data
      0 SInt64 m_Id = 123238357460754432
-     1 string m_Localized = "Scroll"
+     1 string m_Localized = "Rolar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -542,7 +542,7 @@
    [65]
     0 TableEntryData data
      0 SInt64 m_Id = 136256283725963264
-     1 string m_Localized = "Delete"
+     1 string m_Localized = "Deletar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -550,7 +550,7 @@
    [66]
     0 TableEntryData data
      0 SInt64 m_Id = 172497296100319232
-     1 string m_Localized = "Incubate"
+     1 string m_Localized = "Incubar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -558,7 +558,7 @@
    [67]
     0 TableEntryData data
      0 SInt64 m_Id = 172497321240977408
-     1 string m_Localized = "Cancel Incubation"
+     1 string m_Localized = "Cancelar Incubação"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -566,7 +566,7 @@
    [68]
     0 TableEntryData data
      0 SInt64 m_Id = 146377884268515328
-     1 string m_Localized = "Switch Inventory↔Display Table"
+     1 string m_Localized = "Alternar Inventário ↔ Mesa"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -574,7 +574,7 @@
    [69]
     0 TableEntryData data
      0 SInt64 m_Id = 245014835747004416
-     1 string m_Localized = "Accept"
+     1 string m_Localized = "Aceitar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -582,7 +582,7 @@
    [70]
     0 TableEntryData data
      0 SInt64 m_Id = 253601620525752320
-     1 string m_Localized = "Open Catalog"
+     1 string m_Localized = "Abrir Catálogo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -590,7 +590,7 @@
    [71]
     0 TableEntryData data
      0 SInt64 m_Id = 253601803535818752
-     1 string m_Localized = "Exit Furniture Mode"
+     1 string m_Localized = "Sair Modo Edição"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -598,7 +598,7 @@
    [72]
     0 TableEntryData data
      0 SInt64 m_Id = 253602089226641408
-     1 string m_Localized = "Place Furniture"
+     1 string m_Localized = "Colocar Móveis"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -606,7 +606,7 @@
    [73]
     0 TableEntryData data
      0 SInt64 m_Id = 253602196290445312
-     1 string m_Localized = "Switch Main Category"
+     1 string m_Localized = "Alternar Categoria Principal"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -614,7 +614,7 @@
    [74]
     0 TableEntryData data
      0 SInt64 m_Id = 253602526696742912
-     1 string m_Localized = "Switch Subcategory"
+     1 string m_Localized = "Alternar Subcategoria"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -622,7 +622,7 @@
    [75]
     0 TableEntryData data
      0 SInt64 m_Id = 253602600860426240
-     1 string m_Localized = "Close Equipment"
+     1 string m_Localized = "Fechar Equipamento"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -630,7 +630,7 @@
    [76]
     0 TableEntryData data
      0 SInt64 m_Id = 253603521371742208
-     1 string m_Localized = "Theme Filter"
+     1 string m_Localized = "Filtro de Tema"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -638,7 +638,7 @@
    [77]
     0 TableEntryData data
      0 SInt64 m_Id = 253603633988804608
-     1 string m_Localized = "Exit Catalog"
+     1 string m_Localized = "Sair do Catálogo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -646,7 +646,7 @@
    [78]
     0 TableEntryData data
      0 SInt64 m_Id = 253603764851089408
-     1 string m_Localized = "Quick Unlock"
+     1 string m_Localized = "Desbloqueio rápido"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -654,7 +654,7 @@
    [79]
     0 TableEntryData data
      0 SInt64 m_Id = 253605095481450496
-     1 string m_Localized = "Exit Theme Filter"
+     1 string m_Localized = "Sair Filtro de Tema"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -662,7 +662,7 @@
    [80]
     0 TableEntryData data
      0 SInt64 m_Id = 253605540291584000
-     1 string m_Localized = "Boost"
+     1 string m_Localized = "Impulsionar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -670,7 +670,7 @@
    [81]
     0 TableEntryData data
      0 SInt64 m_Id = 253605600362405888
-     1 string m_Localized = "Dive"
+     1 string m_Localized = "Mergulhar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -678,7 +678,7 @@
    [82]
     0 TableEntryData data
      0 SInt64 m_Id = 253607641080045568
-     1 string m_Localized = "Read"
+     1 string m_Localized = "Ler"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -686,7 +686,7 @@
    [83]
     0 TableEntryData data
      0 SInt64 m_Id = 263140256761946112
-     1 string m_Localized = "Open Catalog"
+     1 string m_Localized = "Abrir Catálogo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -694,7 +694,7 @@
    [84]
     0 TableEntryData data
      0 SInt64 m_Id = 263140355118374912
-     1 string m_Localized = "Rapid \ncursor movement"
+     1 string m_Localized = "Movimento\nRápido do Cursor"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -702,7 +702,7 @@
    [85]
     0 TableEntryData data
      0 SInt64 m_Id = 263140461007773696
-     1 string m_Localized = "Rotate"
+     1 string m_Localized = "Rotacionar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -710,7 +710,7 @@
    [86]
     0 TableEntryData data
      0 SInt64 m_Id = 263150325499076608
-     1 string m_Localized = "Put In"
+     1 string m_Localized = "Colocar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -718,7 +718,7 @@
    [87]
     0 TableEntryData data
      0 SInt64 m_Id = 263826644853129216
-     1 string m_Localized = "Put Down"
+     1 string m_Localized = "Retirar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -726,7 +726,7 @@
    [88]
     0 TableEntryData data
      0 SInt64 m_Id = 265640820582293504
-     1 string m_Localized = "Collect All"
+     1 string m_Localized = "Coletar Tudo"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -734,7 +734,7 @@
    [89]
     0 TableEntryData data
      0 SInt64 m_Id = 265642372877426688
-     1 string m_Localized = "View Items"
+     1 string m_Localized = "Ver Itens"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -742,7 +742,7 @@
    [90]
     0 TableEntryData data
      0 SInt64 m_Id = 283739640897642496
-     1 string m_Localized = "Open theme page"
+     1 string m_Localized = "Abrir página de tema"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -750,7 +750,7 @@
    [91]
     0 TableEntryData data
      0 SInt64 m_Id = 301088600159068160
-     1 string m_Localized = "Fill"
+     1 string m_Localized = "Encher"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -758,7 +758,7 @@
    [92]
     0 TableEntryData data
      0 SInt64 m_Id = 338780782223335424
-     1 string m_Localized = "Change Theme"
+     1 string m_Localized = "Mudar Tema"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -766,7 +766,7 @@
    [93]
     0 TableEntryData data
      0 SInt64 m_Id = 338803798583975936
-     1 string m_Localized = "collected item ↔ processing method (switch)"
+     1 string m_Localized = "coletar item ↔ processar método (alternar)"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -774,7 +774,7 @@
    [94]
     0 TableEntryData data
      0 SInt64 m_Id = 382263328718102528
-     1 string m_Localized = "Change Doorway Sign"
+     1 string m_Localized = "Alterar placa de porta"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -782,7 +782,7 @@
    [95]
     0 TableEntryData data
      0 SInt64 m_Id = 324287234704474112
-     1 string m_Localized = "Pump Water"
+     1 string m_Localized = "Bombear água"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -790,7 +790,7 @@
    [96]
     0 TableEntryData data
      0 SInt64 m_Id = 352286190535614464
-     1 string m_Localized = "Fast Descend"
+     1 string m_Localized = "Descida Rápida"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -798,7 +798,7 @@
    [97]
     0 TableEntryData data
      0 SInt64 m_Id = 352286274526552064
-     1 string m_Localized = "Cast"
+     1 string m_Localized = "Mirar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -806,7 +806,7 @@
    [98]
     0 TableEntryData data
      0 SInt64 m_Id = 359244324929601536
-     1 string m_Localized = "Open Map"
+     1 string m_Localized = "Abrir Mapa"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -814,7 +814,7 @@
    [99]
     0 TableEntryData data
      0 SInt64 m_Id = 364596883230203904
-     1 string m_Localized = "Move Map"
+     1 string m_Localized = "Mover Mapa"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -822,7 +822,7 @@
    [100]
     0 TableEntryData data
      0 SInt64 m_Id = 374718953314230272
-     1 string m_Localized = "Redirect"
+     1 string m_Localized = "Redirecionar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -830,7 +830,7 @@
    [101]
     0 TableEntryData data
      0 SInt64 m_Id = 399363369823805440
-     1 string m_Localized = "Reel In"
+     1 string m_Localized = "Enrolar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -838,7 +838,7 @@
    [102]
     0 TableEntryData data
      0 SInt64 m_Id = 434974923548336128
-     1 string m_Localized = "Quick Tool Change"
+     1 string m_Localized = "Alterar Ferramenta Rápida"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -846,7 +846,7 @@
    [103]
     0 TableEntryData data
      0 SInt64 m_Id = 455832713900662784
-     1 string m_Localized = "Stop Tracking"
+     1 string m_Localized = "Parar de Monitorar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -854,7 +854,7 @@
    [104]
     0 TableEntryData data
      0 SInt64 m_Id = 455830707173662720
-     1 string m_Localized = "Tracking"
+     1 string m_Localized = "Monitorar"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -862,7 +862,7 @@
    [105]
     0 TableEntryData data
      0 SInt64 m_Id = 463082076674793472
-     1 string m_Localized = "Expand/Collapse"
+     1 string m_Localized = "Expandir/Recolher"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -870,7 +870,7 @@
    [106]
     0 TableEntryData data
      0 SInt64 m_Id = 496154245721825280
-     1 string m_Localized = "Switch Inventory"
+     1 string m_Localized = "Alterar Inventório"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -878,7 +878,7 @@
    [107]
     0 TableEntryData data
      0 SInt64 m_Id = 496107826415738880
-     1 string m_Localized = "Skip Cutscene"
+     1 string m_Localized = "Pular Cena"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -886,7 +886,7 @@
    [108]
     0 TableEntryData data
      0 SInt64 m_Id = 527572181009088512
-     1 string m_Localized = "Add/Remove from Favorites"
+     1 string m_Localized = "Add/Remover da Lista de Desejos"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -894,7 +894,7 @@
    [109]
     0 TableEntryData data
      0 SInt64 m_Id = 524772765374136320
-     1 string m_Localized = "Remove"
+     1 string m_Localized = "Remover"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -902,7 +902,7 @@
    [110]
     0 TableEntryData data
      0 SInt64 m_Id = 524774389878407168
-     1 string m_Localized = "Change Quantity"
+     1 string m_Localized = "Mudar Quantidade"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -910,7 +910,7 @@
    [111]
     0 TableEntryData data
      0 SInt64 m_Id = 568623041652531200
-     1 string m_Localized = "Hold to Skip"
+     1 string m_Localized = "Segure para Pular"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)

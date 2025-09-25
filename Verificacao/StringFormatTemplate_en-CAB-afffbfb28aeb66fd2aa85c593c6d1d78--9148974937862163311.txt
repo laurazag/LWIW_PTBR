@@ -190,7 +190,7 @@
    [15]
     0 TableEntryData data
      0 SInt64 m_Id = 21783829119655936
-     1 string m_Localized = "[{outputItem}] Crafting Recipe"
+     1 string m_Localized = "[{outputItem}] Receita de Craft"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -201,7 +201,7 @@
    [16]
     0 TableEntryData data
      0 SInt64 m_Id = 34347434648416256
-     1 string m_Localized = "{Common.Ritoring}'s Furniture Basket [{aliasedPoolName}]"
+     1 string m_Localized = "{Common.Ritoring}'s Cesta de Móveis [{aliasedPoolName}]"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)
@@ -212,7 +212,7 @@
    [17]
     0 TableEntryData data
      0 SInt64 m_Id = 34347681516761088
-     1 string m_Localized = "You can use it to check the contents of the basket.\n\nThis basket grants a random [{aliasedPoolName}] furniture recipe."
+     1 string m_Localized = "Você pode usá-lo para verificar o conteúdo da cesta.\n\nEssa cesta concede uma receita de móveis aleatório [{aliasedPoolName}]."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (1 items)

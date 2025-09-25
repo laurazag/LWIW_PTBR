@@ -22,7 +22,7 @@
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 6895853568
-     1 string m_Localized = "Broom"
+     1 string m_Localized = "Vassoura"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -30,7 +30,7 @@
    [1]
     0 TableEntryData data
      0 SInt64 m_Id = 122117578752
-     1 string m_Localized = "Sturdy"
+     1 string m_Localized = "Resistente"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -38,7 +38,7 @@
    [2]
     0 TableEntryData data
      0 SInt64 m_Id = 56329920512
-     1 string m_Localized = "Fast"
+     1 string m_Localized = "Rápido"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -46,7 +46,7 @@
    [3]
     0 TableEntryData data
      0 SInt64 m_Id = 94372257792
-     1 string m_Localized = "Balanced"
+     1 string m_Localized = "Equilibrado"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -54,7 +54,7 @@
    [4]
     0 TableEntryData data
      0 SInt64 m_Id = 9473679662931968
-     1 string m_Localized = "With a lightweight design, it can achieve high speeds. However, due to its low durability, it won't last for a long time."
+     1 string m_Localized = "Com um design leve, pode atingir altas velocidades. No entanto, devido à sua baixa durabilidade, não durará muito tempo.."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -62,7 +62,7 @@
    [5]
     0 TableEntryData data
      0 SInt64 m_Id = 9473823984738304
-     1 string m_Localized = "It has versatile performance that anyone can easily adapt to."
+     1 string m_Localized = "Possui um desempenho versátil, onde qualquer pessoa pode se adaptar facilmente."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
@@ -70,7 +70,7 @@
    [6]
     0 TableEntryData data
      0 SInt64 m_Id = 9473850308190208
-     1 string m_Localized = "It is sturdy and can be used for a long time, and repairs are easy. However, the movement speed is slow."
+     1 string m_Localized = "É resistente e pode ser usado por muito tempo, além de ser fácil de consertar. No entanto, a velocidade de movimento é lenta.."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
