@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (40 items)
-   0 int size = 40
+  0 Array Array (43 items)
+   0 int size = 43
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 105209987072
@@ -335,6 +335,30 @@
     0 TableEntryData data
      0 SInt64 m_Id = 301538904779382784
      1 string m_Localized = "Oficina Blue Thunder - Próxima Geração"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [40]
+    0 TableEntryData data
+     0 SInt64 m_Id = 318913621326540800
+     1 string m_Localized = "Wisteria"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [41]
+    0 TableEntryData data
+     0 SInt64 m_Id = 318918602897207296
+     1 string m_Localized = "Artista Triste"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [42]
+    0 TableEntryData data
+     0 SInt64 m_Id = 318918755590844416
+     1 string m_Localized = "Briza de Verão"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
