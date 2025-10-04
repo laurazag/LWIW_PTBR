@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 0
  0 TableEntryData m_TableData
-  0 Array Array (562 items)
-   0 int size = 562
+  0 Array Array (576 items)
+   0 int size = 576
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 7880712146944
@@ -4585,16 +4585,128 @@
         0 int size = 0
    [560]
     0 TableEntryData data
-     0 SInt64 m_Id = 583465936431685632
-     1 string m_Localized = "O arquivo salvo que você carregou pode apresentar um bug\nonde a <color=#a03c3a>misão <Explorando a Caverna Estrelada></color> não progride adequadamente.\n\nSe você continuar jogando com este jogo salvo, o problema pode persistir.\nPedimos gentilmente que você <color=#a03c3a>reverter para um salvamento anterior</color>.\n\nPor favor, retorne para um save onde o progresso da missão <color=#a03c3a><Explorando a Caverna Estrelada></color> esteja em \n<color=#a03c3a>[Entrando na Caverna Estrelada pelo túnel da Vila.]</color>.\nIsso é logo após completar a <color=#a03c3a>missão <O Caminho Que Trilhamos Juntos></color>,\nonde você conserta a ponte abaixo da vila.\n\nPedimos desculpas pelo inconveniente."
+     0 SInt64 m_Id = 583903695369740288
+     1 string m_Localized = "A lista de desejos está cheia, por isso não pôde ser adicionada automaticamente."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
    [561]
     0 TableEntryData data
+     0 SInt64 m_Id = 583465936431685632
+     1 string m_Localized = "O arquivo salvo que você carregou pode apresentar um bug\nonde a <color=#a03c3a>misão <Explorando a Caverna Estrelada></color> não progride adequadamente.\n\nSe você continuar jogando com este jogo salvo, o problema pode persistir.\nPedimos gentilmente que você <color=#a03c3a>reverter para um salvamento anterior</color>.\n\nPor favor, retorne para um save onde o progresso da missão <color=#a03c3a><Explorando a Caverna Estrelada></color> esteja em \n<color=#a03c3a>[Entrando na Caverna Estrelada pelo túnel da Vila.]</color>.\nIsso é logo após completar a <color=#a03c3a>missão <O Caminho Que Trilhamos Juntos></color>,\nonde você conserta a ponte abaixo da vila.\n\nPedimos desculpas pelo inconveniente."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [562]
+    0 TableEntryData data
      0 SInt64 m_Id = 583484406095486976
      1 string m_Localized = "Não mostrar novamente"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [563]
+    0 TableEntryData data
+     0 SInt64 m_Id = 584184518270590976
+     1 string m_Localized = "Alguns doces na lista de entrega não têm receitas, por isso não podem ser adicionados aos Favoritos."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [564]
+    0 TableEntryData data
+     0 SInt64 m_Id = 581670946068045824
+     1 string m_Localized = "Selecione o seu <color=#a03c3a>modo de controle</color> preferido."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [565]
+    0 TableEntryData data
+     0 SInt64 m_Id = 581674232603025408
+     1 string m_Localized = "Depois de selecionar um modo de controle, você também pode personalizá-lo individualmente em <color=#a03c3a>Menu (ESC) - Controles</color>."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [566]
+    0 TableEntryData data
+     0 SInt64 m_Id = 581691010473336832
+     1 string m_Localized = "Alterar modo de controle do teclado"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [567]
+    0 TableEntryData data
+     0 SInt64 m_Id = 581691119747538944
+     1 string m_Localized = "Há <color=#a03c3a>controles personalizados individualmente</color> no modo de controle atual.\nSe você alterar o modo de controle, o <color=#a03c3a>controles personalizados será redefinidos</color>.\nVocê quer mudar o modo de controle?"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [568]
+    0 TableEntryData data
+     0 SInt64 m_Id = 583476671186542592
+     1 string m_Localized = "Erro no Controles"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [569]
+    0 TableEntryData data
+     0 SInt64 m_Id = 583476798655635456
+     1 string m_Localized = "Um <color=#a03c3a>conflito na configuração de controles</color> foi detectado.\nAjuste suas configurações antes de continuar."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [570]
+    0 TableEntryData data
+     0 SInt64 m_Id = 583816318240497664
+     1 string m_Localized = "Desmontar Vassoura"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [571]
+    0 TableEntryData data
+     0 SInt64 m_Id = 584254024200298496
+     1 string m_Localized = "Transferir itens idênticos"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [572]
+    0 TableEntryData data
+     0 SInt64 m_Id = 584254847043051520
+     1 string m_Localized = "Armazenamento vazio"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [573]
+    0 TableEntryData data
+     0 SInt64 m_Id = 584264983916650496
+     1 string m_Localized = "Nenhum item idêntico disponível para transferência."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [574]
+    0 TableEntryData data
+     0 SInt64 m_Id = 584265046785073152
+     1 string m_Localized = "Todos os itens idênticos foram transferidos."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [575]
+    0 TableEntryData data
+     0 SInt64 m_Id = 584266338014142464
+     1 string m_Localized = "O armazenamento foi esvaziado."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
