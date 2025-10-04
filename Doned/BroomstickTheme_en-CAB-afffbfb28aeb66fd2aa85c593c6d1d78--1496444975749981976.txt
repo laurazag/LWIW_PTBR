@@ -17,8 +17,8 @@
    0 Array Array (0 items)
     0 int size = 0
  0 TableEntryData m_TableData
-  0 Array Array (28 items)
-   0 int size = 28
+  0 Array Array (34 items)
+   0 int size = 34
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 9472396277211136
@@ -239,6 +239,54 @@
     0 TableEntryData data
      0 SInt64 m_Id = 78633262281592832
      1 string m_Localized = "Uma vassoura que parece segurar o céu noturno. Por onde passa, a luz das estrelas se espalha como ondas ondulantes.."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [28]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160534550023442432
+     1 string m_Localized = "Um sonho como um conto de fadas"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [29]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160534559573872640
+     1 string m_Localized = "Uma vassoura adornada com lindas flores e fitas. Quando ela voa, o perfume de rosas paira no ar, fazendo você se sentir como se estivesse deslizando por um sonho de conto de fadas.."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [30]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160563872922836992
+     1 string m_Localized = "Flor Rosada"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [31]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160563882146111488
+     1 string m_Localized = "Uma vassoura mágica que oferece um voo romântico, como uma borboleta graciosa deslizando entre pétalas de rosas flutuantes."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [32]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160572882824708096
+     1 string m_Localized = "Oceano Rosa"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [33]
+    0 TableEntryData data
+     0 SInt64 m_Id = 160572892756819968
+     1 string m_Localized = "Uma vassoura adornada com corais e borrifos do mar. Por onde passa, bolhas se espalham."
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
