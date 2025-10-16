@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 0
  0 TableEntryData m_TableData
-  0 Array Array (1409 items)
-   0 int size = 1409
+  0 Array Array (1412 items)
+   0 int size = 1412
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 6072815386625
@@ -12116,6 +12116,33 @@
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
+   [1409]
+    0 TableEntryData data
+     0 SInt64 m_Id = 25647122710364160
+     1 string m_Localized = "Fale com Arin."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1410]
+    0 TableEntryData data
+     0 SInt64 m_Id = 25658156724617216
+     1 string m_Localized = "Vamos preparar 1 {Item.FirecrackerPotion} para a cerimônia de formatura."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [1411]
+    0 TableEntryData data
+     0 SInt64 m_Id = 26074782724882432
+     1 string m_Localized = "Fale com todo mundo."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
@@ -12132,8 +12159,8 @@
        1 Array Array (0 items)
         0 int size = 0
       0 Entry m_SharedEntries
-       0 Array Array (237 items)
-        0 int size = 237
+       0 Array Array (238 items)
+        0 int size = 238
         [0]
          0 Entry data
           0 SInt64 id = 130168390148026368
@@ -12845,3 +12872,6 @@
         [236]
          0 Entry data
           0 SInt64 id = 285988352478568448
+        [237]
+         0 Entry data
+          0 SInt64 id = 25658156724617216

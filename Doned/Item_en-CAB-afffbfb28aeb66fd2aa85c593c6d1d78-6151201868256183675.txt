@@ -20,8 +20,8 @@
      0 managedRefArrayItem data
       0 SInt64 rid = 0
  0 TableEntryData m_TableData
-  0 Array Array (3429 items)
-   0 int size = 3429
+  0 Array Array (3503 items)
+   0 int size = 3503
    [0]
     0 TableEntryData data
      0 SInt64 m_Id = 323645708140544
@@ -34783,12 +34783,826 @@
         0 int size = 0
    [3428]
     0 TableEntryData data
+     0 SInt64 m_Id = 80433401874812928
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3429]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433371310919680
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3430]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433337769070592
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3431]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433280403574784
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3432]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433309918892032
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3433]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433354214936576
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3434]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433387614179328
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3435]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433416059949056
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3436]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433269422886912
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3437]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433217992331264
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3438]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433181472526336
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3439]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433137755295744
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3440]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433112673357824
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3441]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433146353618944
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3442]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433199147323392
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3443]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433238011744256
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3444]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80431457374507008
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3445]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80432892879245312
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3446]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433029403840512
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3447]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433080519823360
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.MarchenDream} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3448]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80432877339348992
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3449]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80443337086275584
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3450]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433056138334208
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3451]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80433096156188672
+     1 string m_Localized = "{BroomstickTheme.MarchenDream_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3452]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80771931553636352
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3453]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80772407892353024
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3454]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80773345713561600
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3455]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80773602300108800
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3456]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80773745636253696
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3457]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80773929866862592
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3458]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80773991472799744
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3459]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80774084745732096
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3460]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80774353516732416
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3461]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80774708547788800
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3462]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80775115521105920
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3463]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80776771927252992
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3464]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80777034922696704
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3465]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80777753692184576
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3466]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80779048972951552
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3467]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80779156397465600
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3468]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80779324563890176
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3469]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80779509096488960
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3470]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80780814347116544
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3471]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80780964289290240
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3472]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80781239607599104
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3473]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80781713144520704
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3474]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80781804718759936
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.FlutterBloom} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3475]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80782003210002432
+     1 string m_Localized = "{BroomstickTheme.FlutterBloom_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3476]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80786445871333376
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3477]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80786780752953344
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3478]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80786879830802432
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3479]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80786846188290048
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3480]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80786979411968000
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3481]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80786982310232064
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3482]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80787226011877376
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Balanced} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3483]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80787230243930112
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Balanced_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3484]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80787329669906432
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3485]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80787332211654656
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3486]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80787780326899712
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3487]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80787783103528960
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3488]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80787875701178368
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3489]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80787873323008000
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3490]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80787967510298624
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Durable} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3491]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80787969456455680
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3492]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80788134472957952
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3493]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80788132136730624
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3494]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80788425771565056
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3495]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80788428057460736
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3496]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80788526560690176
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3497]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80788529354096640
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3498]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80788735336366080
+     1 string m_Localized = "{BroomstickCommon.Broomstick_Type_Speedy} {BroomstickTheme.PinkOcean} {BroomstickCommon.Broomstick_Name}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3499]
+    0 TableEntryData data
+     0 SInt64 m_Id = 80788737735507968
+     1 string m_Localized = "{BroomstickTheme.PinkOcean_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3500]
+    0 TableEntryData data
      0 SInt64 m_Id = 12283409586749440
      1 string m_Localized = "Crachá de Amizade"
      0 MetadataCollection m_Metadata
       0 IMetadata m_Items
        0 Array Array (0 items)
         0 int size = 0
+   [3501]
+    0 TableEntryData data
+     0 SInt64 m_Id = 81490993044967424
+     1 string m_Localized = "{BroomstickTheme.Basic_Description}\n{BroomstickCommon.Broomstick_Type_Durable_Description}"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
+   [3502]
+    0 TableEntryData data
+     0 SInt64 m_Id = 81491184028405760
+     1 string m_Localized = "{BroomstickTheme.Basic_Description}\n{BroomstickCommon.Broomstick_Type_Speedy_Description}\n"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (1 items)
+        0 int size = 1
+        [0]
+         0 managedRefArrayItem data
+          0 SInt64 rid = 0
  0 ManagedReferencesRegistry references
   0 int version = 2
   0 vector RefIds
@@ -34805,8 +35619,8 @@
        1 Array Array (0 items)
         0 int size = 0
       0 Entry m_SharedEntries
-       0 Array Array (2252 items)
-        0 int size = 2252
+       0 Array Array (2326 items)
+        0 int size = 2326
         [0]
          0 Entry data
           0 SInt64 id = 170368326957072384
@@ -41563,6 +42377,228 @@
         [2251]
          0 Entry data
           0 SInt64 id = 30837388057501696
+        [2252]
+         0 Entry data
+          0 SInt64 id = 80431457374507008
+        [2253]
+         0 Entry data
+          0 SInt64 id = 80432877339348992
+        [2254]
+         0 Entry data
+          0 SInt64 id = 80432892879245312
+        [2255]
+         0 Entry data
+          0 SInt64 id = 80443337086275584
+        [2256]
+         0 Entry data
+          0 SInt64 id = 80433029403840512
+        [2257]
+         0 Entry data
+          0 SInt64 id = 80433056138334208
+        [2258]
+         0 Entry data
+          0 SInt64 id = 80433080519823360
+        [2259]
+         0 Entry data
+          0 SInt64 id = 80433096156188672
+        [2260]
+         0 Entry data
+          0 SInt64 id = 80433112673357824
+        [2261]
+         0 Entry data
+          0 SInt64 id = 80433137755295744
+        [2262]
+         0 Entry data
+          0 SInt64 id = 80433146353618944
+        [2263]
+         0 Entry data
+          0 SInt64 id = 80433181472526336
+        [2264]
+         0 Entry data
+          0 SInt64 id = 80433199147323392
+        [2265]
+         0 Entry data
+          0 SInt64 id = 80433217992331264
+        [2266]
+         0 Entry data
+          0 SInt64 id = 80433238011744256
+        [2267]
+         0 Entry data
+          0 SInt64 id = 80433269422886912
+        [2268]
+         0 Entry data
+          0 SInt64 id = 80433280403574784
+        [2269]
+         0 Entry data
+          0 SInt64 id = 80433309918892032
+        [2270]
+         0 Entry data
+          0 SInt64 id = 80433337769070592
+        [2271]
+         0 Entry data
+          0 SInt64 id = 80433354214936576
+        [2272]
+         0 Entry data
+          0 SInt64 id = 80433371310919680
+        [2273]
+         0 Entry data
+          0 SInt64 id = 80433387614179328
+        [2274]
+         0 Entry data
+          0 SInt64 id = 80433401874812928
+        [2275]
+         0 Entry data
+          0 SInt64 id = 80433416059949056
+        [2276]
+         0 Entry data
+          0 SInt64 id = 80771931553636352
+        [2277]
+         0 Entry data
+          0 SInt64 id = 80772407892353024
+        [2278]
+         0 Entry data
+          0 SInt64 id = 80773345713561600
+        [2279]
+         0 Entry data
+          0 SInt64 id = 80773602300108800
+        [2280]
+         0 Entry data
+          0 SInt64 id = 80773745636253696
+        [2281]
+         0 Entry data
+          0 SInt64 id = 80773929866862592
+        [2282]
+         0 Entry data
+          0 SInt64 id = 80773991472799744
+        [2283]
+         0 Entry data
+          0 SInt64 id = 80774084745732096
+        [2284]
+         0 Entry data
+          0 SInt64 id = 80774353516732416
+        [2285]
+         0 Entry data
+          0 SInt64 id = 80774708547788800
+        [2286]
+         0 Entry data
+          0 SInt64 id = 80775115521105920
+        [2287]
+         0 Entry data
+          0 SInt64 id = 80776771927252992
+        [2288]
+         0 Entry data
+          0 SInt64 id = 80777034922696704
+        [2289]
+         0 Entry data
+          0 SInt64 id = 80777753692184576
+        [2290]
+         0 Entry data
+          0 SInt64 id = 80779048972951552
+        [2291]
+         0 Entry data
+          0 SInt64 id = 80779156397465600
+        [2292]
+         0 Entry data
+          0 SInt64 id = 80779324563890176
+        [2293]
+         0 Entry data
+          0 SInt64 id = 80779509096488960
+        [2294]
+         0 Entry data
+          0 SInt64 id = 80780814347116544
+        [2295]
+         0 Entry data
+          0 SInt64 id = 80780964289290240
+        [2296]
+         0 Entry data
+          0 SInt64 id = 80781239607599104
+        [2297]
+         0 Entry data
+          0 SInt64 id = 80781713144520704
+        [2298]
+         0 Entry data
+          0 SInt64 id = 80781804718759936
+        [2299]
+         0 Entry data
+          0 SInt64 id = 80782003210002432
+        [2300]
+         0 Entry data
+          0 SInt64 id = 80786445871333376
+        [2301]
+         0 Entry data
+          0 SInt64 id = 80786780752953344
+        [2302]
+         0 Entry data
+          0 SInt64 id = 80786846188290048
+        [2303]
+         0 Entry data
+          0 SInt64 id = 80786879830802432
+        [2304]
+         0 Entry data
+          0 SInt64 id = 80786979411968000
+        [2305]
+         0 Entry data
+          0 SInt64 id = 80786982310232064
+        [2306]
+         0 Entry data
+          0 SInt64 id = 80787226011877376
+        [2307]
+         0 Entry data
+          0 SInt64 id = 80787230243930112
+        [2308]
+         0 Entry data
+          0 SInt64 id = 80787329669906432
+        [2309]
+         0 Entry data
+          0 SInt64 id = 80787332211654656
+        [2310]
+         0 Entry data
+          0 SInt64 id = 80787780326899712
+        [2311]
+         0 Entry data
+          0 SInt64 id = 80787783103528960
+        [2312]
+         0 Entry data
+          0 SInt64 id = 80787873323008000
+        [2313]
+         0 Entry data
+          0 SInt64 id = 80787875701178368
+        [2314]
+         0 Entry data
+          0 SInt64 id = 80787967510298624
+        [2315]
+         0 Entry data
+          0 SInt64 id = 80788132136730624
+        [2316]
+         0 Entry data
+          0 SInt64 id = 80788134472957952
+        [2317]
+         0 Entry data
+          0 SInt64 id = 80787969456455680
+        [2318]
+         0 Entry data
+          0 SInt64 id = 80788526560690176
+        [2319]
+         0 Entry data
+          0 SInt64 id = 80788529354096640
+        [2320]
+         0 Entry data
+          0 SInt64 id = 80788428057460736
+        [2321]
+         0 Entry data
+          0 SInt64 id = 80788425771565056
+        [2322]
+         0 Entry data
+          0 SInt64 id = 80788735336366080
+        [2323]
+         0 Entry data
+          0 SInt64 id = 80788737735507968
+        [2324]
+         0 Entry data
+          0 SInt64 id = 81490993044967424
+        [2325]
+         0 Entry data
+          0 SInt64 id = 81491184028405760
     0 ReferencedObject data
      0 SInt64 rid = 1
      0 ReferencedManagedType type
